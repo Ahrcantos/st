@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true";
-static char *font2[] = { "Inconsolata for Powerline:pixelsize=11:antialias=true:autohint=true" };
+static char *font = "Iosevka:pixelsize=11:antialias=true:autohint=true";
+static char *font2[] = { "Iosevka:pixelsize=11:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
